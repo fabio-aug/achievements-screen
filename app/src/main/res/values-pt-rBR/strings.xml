@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Troféu Joinha</string>
+    <string name="name">Nome</string>
+    <string name="surname">Sobrenome</string>
+    <string name="like">Curtir</string>
+    <string name="image_desc">Imagem de troféu</string>
+</resources>
