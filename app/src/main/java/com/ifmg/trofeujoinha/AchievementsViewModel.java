@@ -8,7 +8,6 @@ public class AchievementsViewModel extends ViewModel {
     public MutableLiveData<String> name = new MutableLiveData<>();
     public MutableLiveData<String> surname = new MutableLiveData<>();
     public MutableLiveData<Integer> like = new MutableLiveData<>();
-
     public MutableLiveData<Integer> image = new MutableLiveData<>();
 
     public AchievementsViewModel() {
