@@ -1,2 +1,2 @@
 # achievements-screen
-Exércicio 1 - Lista 1 - Mobile
+Exercício 1 - Lista 1 - Mobile
